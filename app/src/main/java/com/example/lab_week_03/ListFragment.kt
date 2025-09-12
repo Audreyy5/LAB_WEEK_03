@@ -7,6 +7,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 
+interface CoffeeListener {
+    fun onSelected(id: Int)
+}
 class ListFragment : Fragment(), View.OnClickListener {
 
     private var param1: String? = null
