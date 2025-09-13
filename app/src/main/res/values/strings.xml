@@ -20,5 +20,12 @@
         Serve in a latte glass or a coffee cup. Flavored syrup can be added.
     </string>
 
+    <string name="espresso_title">ESPRESSO</string>
+    <string name="espresso_desc">A strong coffee brewed by forcing hot water under pressure through finely-ground coffee beans.</string>
+
+    <string name="cappuccino_title">CAPPUCCINO</string>
+    <string name="cappuccino_desc">Espresso with steamed milk and a deep layer of foamed milk. Often topped with cocoa powder.</string>
+
+
     <string name="coffee_list">Coffee List</string>
 </resources>
